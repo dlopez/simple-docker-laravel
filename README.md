@@ -4,5 +4,5 @@
 ## Install Laravel
 - Composer: `composer create-project laravel/laravel .`
 
-## Setup Docker
-- Run docker-compose: `docker-compose up -d`
+## Run Docker
+- docker-compose: `docker-compose up -d`
